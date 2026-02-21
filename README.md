@@ -1,4 +1,4 @@
-## Hi there 👋
+# ✨Glen Gerod repository space✨
 
 <!--
 **ggerod/ggerod** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- Information Security: Cloud Engineer / DevSecOps / Operations Manager with over 25 years of IT experience with an industry emphasis on financial organizations, biotech, and
+big data.
+
+- 🔭 I’m currently working on:
+  + Information Security
+  + Linux
+  + Cloud(AWS, Azure)
+  + Containers and Orchestration(K8s)
+  + Networking and Architecture
+  + Programming
+  
