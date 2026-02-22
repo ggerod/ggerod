@@ -25,4 +25,4 @@ big data.
   + Networking and Architecture
   + Programming
   
-<img src="images/matrain.gif" width="100%">
+<img src="images/matrain.gif" width="100%" height="10%">
